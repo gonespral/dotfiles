@@ -1,4 +1,3 @@
-```markdown
 # Dotfiles Management with GNU Stow
 
 ## Essential Commands
